@@ -8,4 +8,4 @@ To stop, go to task manager and find microsoft windows based scripts and select 
 
 
 
-Too slow, change the sleep time from 300 to 200, 100 or less is not reccommended, also, dont keep the mouse over the file or it will spam open it.
+Too slow? Change the sleep time from 300 to 200, 100 or less is not reccommended, also, dont keep the mouse over the file or it will spam open it.
